@@ -1,0 +1,9 @@
+{
+    "name": "codicians/theme-skel",
+    "description": "WordPress templates skeleton using Boilerplate framework and VueJS",
+    "type": "project",
+    "license": "GPL-3.0",
+    "require": {
+        "codicians/boilerplate": "~1.0.0"
+    }
+}
